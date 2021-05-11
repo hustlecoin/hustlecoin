@@ -66,7 +66,7 @@
         <translation>Helbideak jasotzen</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Hustle addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hauek dira zuk dirua jaso dezaketen Bitcoin helbideak. Egiaztatu beti diru-kopurua eta dirua jasoko duen helbidea zuzen egon daitezen, txanponak bidali baino lehen.</translation>
     </message>
     <message>
@@ -354,7 +354,7 @@
         <translation>Blokeak diskoan berriro zerrendatzen...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Hustle address</source>
         <translation>Bidali txanponak Bitcoin helbide batera</translation>
     </message>
     <message>
@@ -382,7 +382,7 @@
         <translation>Lehio nagusia erakutsi edo izkutatu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Hustle addresses</source>
         <translation>Egiaztatu mesua Bitcoin helbide espezifikoarekin erregistratu direla ziurtatzeko</translation>
     </message>
     <message>
